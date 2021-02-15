@@ -1,0 +1,7 @@
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\bin\Debug\Projeto 1 - Calculadora.exe.config
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\bin\Debug\Projeto 1 - Calculadora.exe
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\bin\Debug\Projeto 1 - Calculadora.pdb
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\obj\Debug\Projeto 1 - Calculadora.csprojAssemblyReference.cache
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\obj\Debug\Projeto 1 - Calculadora.csproj.CoreCompileInputs.cache
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\obj\Debug\Projeto 1 - Calculadora.exe
+D:\Desktop\CarreiraUnica\Projeto 1 - Calculadora\Projeto 1 - Calculadora\obj\Debug\Projeto 1 - Calculadora.pdb
